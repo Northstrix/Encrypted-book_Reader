@@ -1,4 +1,5 @@
 /*
+Encrypted-book Reader
 https://github.com/Northstrix/Encrypted-book_Reader
 Distributed under the MIT License
 © Copyright Maxim Bortnikov 2022
